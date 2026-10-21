@@ -1,0 +1,70 @@
+
+
+FULL INVENTORY LIST
+TYPE                NAME                MANUFACTURER              YEAR    COST $    STRING INFO
+Drums               Rydeen              Yamaha                    2023       420
+Drums               Nitro Max           Alesis                    2023       399
+Drums               DED-200             Donner                    2023       336
+Base Guitar         39RH                Glarry                    2024        99 4 22 Not Bowed
+Base Guitar         39RH                Glarry                    2024        99  4 4 Not Bowed
+Base Guitar         Nova Go SP1         Enya                      2024       200 4 24 Not Bowed
+Base Guitar         Nova Go SP1         Enya                      2024       200  4 4 Not Bowed
+Acoustic Guitar     Dreadnought         Fender                    2024       190 5 20 Not Bowed
+Acoustic Guitar     Dreadnought         Fender                    2024       190  5 5 Not Bowed
+Acoustic Guitar     AF227A              Winzz                     2022       128 5 20 Not Bowed
+Acoustic Guitar     AF227A              Winzz                     2022       128  5 5 Not Bowed
+Electric Guitar     GRG121              Ibanez                    2023       230 5 22 Not Bowed
+Electric Guitar     GRG121              Ibanez                    2023       230  5 5 Not Bowed
+Violin              SV-500              Cremona                   2023       340      4 0 Bowed
+Violin              SV-500              Cremona                   2023       340      4 4 Bowed
+Violin              SV-130              Cremona                   2023       230      4 0 Bowed
+Violin              SV-130              Cremona                   2023       230      4 4 Bowed
+Violin              G2                  Louis Carpini             2024       705      4 0 Bowed
+Violin              G2                  Louis Carpini             2024       705      4 4 Bowed
+Cello               PTTCS300            Paititi                   2023       412      4 0 Bowed
+Cello               PTTCS300            Paititi                   2023       412      4 4 Bowed
+Base                SB200               Shen                      2023      6500      4 0 Bowed
+Base                SB200               Shen                      2023      6500      4 4 Bowed
+Base                Gamba               Wilhelm Eberle            2023      3500      4 0 Bowed
+Base                Gamba               Wilhelm Eberle            2023      3500      4 4 Bowed
+Base                Karr                Upton                     2024      6500      4 0 Bowed
+Base                Karr                Upton                     2024      6500      4 4 Bowed
+Saxophone           AS-400              Jean Paul                 2023       602
+Saxophone           Superior Alto       Herche                    2024       599
+Flute               C Flute             Eastrock                  2024        90
+Flute               1SP                 Gemeinhardt               2024       349
+
+
+INVENTORY FROM MAKER: Fender
+TYPE                NAME                MANUFACTURER              YEAR    COST $    STRING INFO
+Drums               Rydeen              Yamaha                    2023       420
+Drums               Nitro Max           Alesis                    2023       399
+Drums               DED-200             Donner                    2023       336
+Base Guitar         39RH                Glarry                    2024        99 4 22 Not Bowed
+Base Guitar         39RH                Glarry                    2024        99  4 4 Not Bowed
+Base Guitar         Nova Go SP1         Enya                      2024       200 4 24 Not Bowed
+Base Guitar         Nova Go SP1         Enya                      2024       200  4 4 Not Bowed
+Acoustic Guitar     Dreadnought         Fender                    2024       190 5 20 Not Bowed
+Acoustic Guitar     Dreadnought         Fender                    2024       190  5 5 Not Bowed
+Acoustic Guitar     AF227A              Winzz                     2022       128 5 20 Not Bowed
+Acoustic Guitar     AF227A              Winzz                     2022       128  5 5 Not Bowed
+Electric Guitar     GRG121              Ibanez                    2023       230 5 22 Not Bowed
+Electric Guitar     GRG121              Ibanez                    2023       230  5 5 Not Bowed
+Violin              SV-500              Cremona                   2023       340      4 0 Bowed
+Violin              SV-500              Cremona                   2023       340      4 4 Bowed
+Violin              SV-130              Cremona                   2023       230      4 0 Bowed
+Violin              SV-130              Cremona                   2023       230      4 4 Bowed
+Violin              G2                  Louis Carpini             2024       705      4 0 Bowed
+Violin              G2                  Louis Carpini             2024       705      4 4 Bowed
+Cello               PTTCS300            Paititi                   2023       412      4 0 Bowed
+Cello               PTTCS300            Paititi                   2023       412      4 4 Bowed
+Base                SB200               Shen                      2023      6500      4 0 Bowed
+Base                SB200               Shen                      2023      6500      4 4 Bowed
+Base                Gamba               Wilhelm Eberle            2023      3500      4 0 Bowed
+Base                Gamba               Wilhelm Eberle            2023      3500      4 4 Bowed
+Base                Karr                Upton                     2024      6500      4 0 Bowed
+Base                Karr                Upton                     2024      6500      4 4 Bowed
+Saxophone           AS-400              Jean Paul                 2023       602
+Saxophone           Superior Alto       Herche                    2024       599
+Flute               C Flute             Eastrock                  2024        90
+Flute               1SP                 Gemeinhardt               2024       349

@@ -1,0 +1,9 @@
+Error: Index 5 out of bounds for length 5 — Drums,DD75,Yamaha,2024,300,,,
+Error: Index 5 out of bounds for length 5 — Drums,Nitro Max 2,Alesis,error,399,,,
+Error: Index 5 out of bounds for length 5 — Drums,DED-80,Donner,2023,216,,,
+Error: For input string: "error" - Electric Guitar,Squire,Fender,2023,error,5,22,0
+Error: For input string: "error" — Electric Guitar,Squire Stratocaster,Fender,2023,300,5,22,0
+Error: Index 5 out of bounds for length 5 — Saxophone,Pink Tenor,Eastrock,2023,357,,,
+Error: Index 5 out of bounds for length 5 — Saxophone,YAS-280,Yamaha,2023,1165,,,
+Error: Index 5 out of bounds for length 5 — Flute,Superior M2,Herche,2023,329,,,
+Error: Index 5 out of bounds for length 5 — null
