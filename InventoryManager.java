@@ -163,11 +163,13 @@ public class InventoryManager {
         //complete logic to only write the items of maker
         writer.write(String.format("%-20s%-20s%-20s%10s%10s%15s\n","TYPE","NAME","MANUFACTURER","YEAR","COST $","STRING INFO"));
         for (Instrument instrument: inventory) { 
-            if (instrument.getManufacturer().equalsIgnoreCase(maker));
-            writer.print(instrument);
+            if (instrument.getManufacturer().equalsIgnoreCase(maker)) { 
+                 writer.print(instrument);
 
             found = true;
 
+            }
+           
         }
         
         if (found == false) { 

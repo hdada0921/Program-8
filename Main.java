@@ -59,11 +59,13 @@ class Main {
                 String maker = scanner.nextLine();
                 InventoryManager.listManufacturers(inventory, maker, writer);
                 writer.flush();
-            }
+            } else if (choice == 4) { 
+                System.exit(0);
+        
 
         }
             
-
+    }
         }
         catch (FileNotFoundException e)
         { 
